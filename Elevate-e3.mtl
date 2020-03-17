@@ -1,0 +1,12 @@
+# Blender MTL File: 'Elevate4.blend'
+# Material Count: 1
+
+newmtl argent1
+Ns 900.000000
+Ka 0.795119 0.795119 0.795119
+Kd 0.152325 0.152325 0.152325
+Ks 0.734286 0.734286 0.734286
+Ke 0.000000 0.000000 0.000000
+Ni 10.549999
+d 1.000000
+illum 3
